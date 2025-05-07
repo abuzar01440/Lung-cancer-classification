@@ -1,4 +1,3 @@
-```markdown
 # Lung Cancer Classification Using ConvNeXtTiny with Transfer Learning
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15256078.svg)](https://doi.org/10.5281/zenodo.15256078)
@@ -11,7 +10,7 @@ This repository provides the open-source implementation of the research paper **
 ## 📌 Abstract
 Lung cancer remains a leading cause of cancer-related mortality worldwide. This work addresses the challenge of deploying deep learning models in resource-constrained medical settings by adapting the computationally efficient **ConvNeXtTiny** architecture. Using transfer learning, the model achieves **98.31% test accuracy**, **98.31% precision**, **98.31% recall**, and **98.43% F1-score** on a curated dataset of histopathological images. The results highlight its potential for practical clinical applications, particularly in environments with limited computational resources.
 
----
+
 
 ## 🛠️ Installation
 ### Dependencies
@@ -23,10 +22,6 @@ Lung cancer remains a leading cause of cancer-related mortality worldwide. This 
 - Pandas
 - Matplotlib
 
-Install requirements via `pip`:
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
