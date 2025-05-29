@@ -14,7 +14,7 @@ Lung cancer remains a leading cause of cancer-related mortality worldwide. This 
 
 ## 🛠️ Installation
 ### Dependencies
-- Python 3.8+
+- Python 3.10+
 - TensorFlow 2.10+
 - Keras
 - scikit-learn
